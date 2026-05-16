@@ -1,0 +1,92 @@
+# Privacy Policy
+
+**Effective Date:** May 16, 2026  
+**Last Updated:** May 16, 2026
+
+[Insert Your Company/Developer/App Name] ("we," "us," or "our") operates the [Insert App Name] application (the "Service"). We respect your privacy and are committed to protecting the personal data we process about you. 
+
+This Privacy Policy explains how we collect, use, store, disclose, and manage your information when you use our application, including information processed via Facebook/Meta platform integrations.
+
+---
+
+## 1. Information We Collect
+
+### A. Information Provided via Facebook Login / Meta APIs
+If you choose to log in or connect to our Service using your Facebook account, we may collect certain information from your Facebook profile based on the permissions you grant:
+* **Public Profile Data:** Name, profile picture, age range, gender, and language preference.
+* **Account Credentials:** Email address associated with your Facebook account.
+* **Other Authorized Data:** Any additional data you explicitly consent to share with us during the authentication process (e.g., user friend lists, pages managed), if applicable.
+
+### B. Information You Provide Directly
+* Account registration details (if separate from Facebook Login).
+* Customer support inquiries, feedback, and communication logs.
+
+### C. Automatically Collected Data
+* Device information (IP address, operating system, browser type, device identifiers).
+* Usage data (log files, features accessed, time spent on the application).
+
+---
+
+## 2. How We Use Your Information
+
+We use the collected data for various purposes, including to:
+* Provide, operate, and maintain our Service.
+* Authenticate your identity and manage your user account via Facebook Login.
+* Personalize your user experience and deliver tailored content.
+* Respond to customer support requests and communicate technical updates.
+* Monitor, analyze, and improve the performance and security of the Service.
+* Comply with legal obligations and enforce our Terms of Service.
+
+---
+
+## 3. Data Sharing and Disclosure
+
+We **do not** sell, rent, or trade your personal data to third parties. We may share your information only in the following circumstances:
+* **With Service Providers:** Trusted third-party vendors who assist us in operating our app, managing data infrastructure, or analyzing usage (subject to strict confidentiality agreements).
+* **For Legal Reasons:** If required by law, subpoena, or to protect the safety, rights, and property of our users, the public, or our platform.
+* **With Your Consent:** In any other scenario where you give us explicit permission to share your data.
+
+---
+
+## 4. Data Retention and Security
+
+We retain your personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, or as required by legal and regulatory frameworks. We employ industry-standard technical and organizational security measures to protect your information against unauthorized access, loss, alteration, or disclosure.
+
+---
+
+## 5. User Rights and Data Deletion (Meta Platform Compliance)
+
+We respect your rights regarding your personal information. Depending on your location, you may have the right to access, correct, restrict, or delete your personal data.
+
+### How to Request Data Deletion
+In strict compliance with Meta’s Platform Terms, you can request the deletion of any data retrieved from Facebook at any time:
+1. **Direct Request:** You can submit a formal request to delete your account and all associated data by emailing us at **[Insert Contact Email]**.
+2. **Meta Data Deletion Instructions:** You can also remove our application's access to your data via your Facebook settings:
+   * Go to your Facebook Profile's **Settings & Privacy > Settings**.
+   * Navigate to **Apps and Websites** and locate our application.
+   * Click the **Remove** button.
+   * *(Optional if you host a dedicated URL)* Alternatively, follow our step-by-step instructions at: **[Insert link to your specific data deletion instructions page, if available]**.
+
+Upon receiving a valid request, we will purge your data from our active databases within a reasonable timeframe, unless legal retention requirements apply.
+
+---
+
+## 6. Third-Party Links and Services
+
+Our Service may contain links to external sites or services not operated by us. We have no control over, and assume no responsibility for, the content, privacy policies, or data practices of any third-party websites or services.
+
+---
+
+## 7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top. You are advised to review this Privacy Policy periodically for any changes.
+
+---
+
+## 8. Contact Us
+
+If you have any questions, concerns, or data deletion requests regarding this Privacy Policy, please contact us:
+
+* **By Email:** [Insert Contact Email Address]
+* **By Mail:** [Insert Physical Address / Business Registration Address, if applicable]
+* **Website Support Page:** [Insert Support URL]
